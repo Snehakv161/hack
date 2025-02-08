@@ -1,0 +1,48 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color:bisque;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container Styling */
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Heading Styling */
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* List Styling */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+/* Image Styling */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+}
